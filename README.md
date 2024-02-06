@@ -1,7 +1,7 @@
-# Nium Documentation - Assets Repository
+# Nium Documentation - Asset Repository
 
-Welcome to the Nium Docuemntation Assets repo.
+Welcome to the Nium Documentation Asset Repository.
 
-This repository contains various assets such as PDFs, Excel sheets, and ZIP folders that is referenced in [Nium's documentation](https://docs.nium.com/apis). You can easily access and download these assets from here.
+This repo contains various assets such as PDFs, Excel sheets, and ZIP folders that are referenced throughout [Nium's documentation](https://docs.nium.com/apis). You can easily access and download these various assets from this repo.
 
-If you have any questions, please don't hesitate to reach out to [support@nium.com](mailto:support@nium.com).
+If you have any questions, please don't hesitate to contact [support@nium.com](mailto:support@nium.com).
